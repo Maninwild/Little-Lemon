@@ -1,2 +1,0 @@
-# Little-Lemon
-Project
